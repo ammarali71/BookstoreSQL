@@ -42,6 +42,4 @@ Remaining stock after fulfilling all orders
 
 
 
-This project is open-source and free to use for learning and educational purposes.
 
-Would you like me to make it more visually appealing with emojis, tables, and badges (GitHub-style), so it looks more professional and attractive to recruiters?
